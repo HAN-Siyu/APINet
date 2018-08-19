@@ -1,0 +1,1428 @@
+lncRNA,disease,OMIMId
+ANRIL,acute lymphoblastic leukemia,613065
+T-ALL-R-LncR1,acute lymphoblastic leukemia,613065
+CDKN2B-AS1,acute lymphoblastic leukemia,613065
+CDKN2B-AS7,acute lymphoblastic leukemia,613065
+BALR-2,acute lymphoblastic leukemia,613065
+BALR-6,acute lymphoblastic leukemia,613065
+CDKN2B-AS1,acute lymphoblastic leukemia,613065
+TCL6,acute lymphoblastic leukemia,613065
+LUNAR1,acute lymphoblastic leukemia,613065
+MIR100HG,acute megakaryoblastic leukemia,190685
+MONC,acute megakaryoblastic leukemia,190685
+NRON,acute megakaryoblastic leukemia,190685
+ANRIL,acute myeloid leukemia,601626
+CCDC26,acute myeloid leukemia,601626
+HOTAIR,acute myeloid leukemia,601626
+IRAIN,acute myeloid leukemia,601626
+MEG3,acute myeloid leukemia,601626
+ROPNR,acute myeloid leukemia,601626
+UCA1,acute myeloid leukemia,601626
+WT1-AS,acute myeloid leukemia,601626
+MEG3,acute myeloid leukemia,601626
+WT1-AS,acute myeloid leukemia,601626
+cyclin-dependent kinase inhibitor 2B antisense RNA 1 (ANRIL),acute myocardial infarction,603829
+hypoxia inducible factor 1A antisense RNA 2,acute myocardial infarction,603829
+member 1 opposite strand/antisense transcript 1 (KCNQ1OT1),acute myocardial infarction,603829
+metastasis-associated lung adenocarcinoma transcript 1,acute myocardial infarction,603829
+myocardial infarction-associated transcript,acute myocardial infarction,603829
+HOTAIRM1,acute promyelocytic leukemia,612376
+NEAT1,acute promyelocytic leukemia,612376
+TCL6,acute T-lymphocytic leukemia,186960
+CHL1-AS2,adolescent idiopathic scoliosis,181800
+DSCAM-AS1,adolescent idiopathic scoliosis,181800
+H19,adrenocortical cancers,202300
+BCYRN1,aging,502000
+KCNQ1DN,aging,502000
+7SK,AIDS,609423
+7SL,AIDS,609423
+HCP5,AIDS,609423
+HLA-AS1,AIDS,609423
+NEAT-1,AIDS,609423
+NRON,AIDS,609423
+51A,Alzheimer's disease,104300
+BACE1-AS,Alzheimer's disease,104300
+BCYRN1,Alzheimer's disease,104300
+CDKN2B-AS1,Alzheimer's disease,104300
+GDNFOS,Alzheimer's disease,104300
+HAR1A,Alzheimer's disease,104300
+HAR1B,Alzheimer's disease,104300
+SNHG3,Alzheimer's disease,104300
+SOX2-OT,Alzheimer's disease,104300
+NEAT-1,amyotrophic lateral sclerosis,105400
+C15orf2,Angelman syndrome,105830
+Ube3a-as,Angelman syndrome,105830
+UBE3A-AS1,Angelman syndrome,105830
+UBE3A-ATS,Angelman syndrome,105830
+Ube3a-ATS,Angelman syndrome,105830
+CDKN2B-AS1,aortic aneurysm,100070
+ANRIL,atherosclerosis,108725
+CDKN2B-AS1,atherosclerosis,108725
+H19,atherosclerosis,108725
+lincRNA-p21,atherosclerosis,108725
+RP5-833A20.1,atherosclerosis,108725
+DISC2,Autism spectrum disorder,209850
+GAS5,autoimmune disease,109100
+ZFAT-AS1,autoimmune disease,109100
+lincRNA-p21,B cell lymphoma,109565
+CDKN2B-AS1,basal cell cancer,605462
+FOXCUT,basal-like breast cancer,113705
+C13orf25,B-cell lymphoma,109565
+PEG10,B-cell lymphoma,109565
+GAS5,B-cell neoplasms,151430
+HOTAIR,B-cell neoplasms,151430
+MALAT1,B-cell neoplasms,151430
+TUG1,B-cell neoplasms,151430
+H19,Beckwith-Wiedemann syndrome,130650
+KCNQ1OT1,Beckwith-Wiedemann syndrome,130650
+H19,biparental complete hydatidiform moles,614293
+DISC2,bipolar disorder,125480
+DAOA-AS1,bipolar disorder,125480
+DISC2,bipolar disorder,125480
+AATBC,bladder cancer,109800
+ANRIL,bladder cancer,109800
+CTA-134P22.2,bladder cancer,109800
+CTC-276P9.1,bladder cancer,109800
+GAS5,bladder cancer,109800
+GHET1,bladder cancer,109800
+H19,bladder cancer,109800
+HOTAIR,bladder cancer,109800
+KRT19P3,bladder cancer,109800
+linc-UBC1,bladder cancer,109800
+lncRNA-n336928,bladder cancer,109800
+MALAT1,bladder cancer,109800
+MDC1-AS,bladder cancer,109800
+MEG3,bladder cancer,109800
+ncRAN,bladder cancer,109800
+PCAT-1,bladder cancer,109800
+PVT1,bladder cancer,109800
+SPRY4-IT1,bladder cancer,109800
+TNXA,bladder cancer,109800
+TUG1,bladder cancer,109800
+UCA1,bladder cancer,109800
+ZEB2NAT,bladder cancer,109800
+AB074278,bladder cancer,109800
+BLACAT1,bladder cancer,109800
+H19,bladder cancer,109800
+MALAT1,bladder cancer,109800
+MEG3,bladder cancer,109800
+SNHG16,bladder cancer,109800
+TUG1,bladder cancer,109800
+UCA1,bladder cancer,109800
+XIST,bladder cancer,109800
+AB074278,bladder cancer,109800
+MALAT1,bladder cancer,109800
+TUG1,bladder cancer,109800
+BPESC1,blepharophimosis syndrome,110100
+PISRT1,blepharophimosis syndrome,110100
+DANCR,bone diseases,167250
+PTHLH,brachydactyly,112500
+ANRIL,breast cancer,114480
+BC040587,breast cancer,114480
+BC200,breast cancer,114480
+BCAR4,breast cancer,114480
+CCAT1,breast cancer,114480
+CCAT2,breast cancer,114480
+EFNA3,breast cancer,114480
+EGOT,breast cancer,114480
+GAS5,breast cancer,114480
+H19,breast cancer,114480
+HOTAIR,breast cancer,114480
+IRAIN,breast cancer,114480
+KCNQ1OT1,breast cancer,114480
+LINC00617,breast cancer,114480
+linc-ITGB1,breast cancer,114480
+lincRNA-BC2,breast cancer,114480
+lincRNA-BC4,breast cancer,114480
+lincRNA-BC5,breast cancer,114480
+lincRNA-BC8,breast cancer,114480
+linc-ROR,breast cancer,114480
+lncRNA-AK058803,breast cancer,114480
+lncRNA-HIT,breast cancer,114480
+lncRNA-JADE,breast cancer,114480
+LOC554202,breast cancer,114480
+LSINCT1,breast cancer,114480
+LSINCT10,breast cancer,114480
+LSINCT11,breast cancer,114480
+LSINCT12,breast cancer,114480
+LSINCT2,breast cancer,114480
+LSINCT3,breast cancer,114480
+LSINCT4,breast cancer,114480
+LSINCT5,breast cancer,114480
+LSINCT6,breast cancer,114480
+LSINCT7,breast cancer,114480
+LSINCT8,breast cancer,114480
+LSINCT9,breast cancer,114480
+M41,breast cancer,114480
+MALAT1,breast cancer,114480
+MEG3,breast cancer,114480
+MVIH,breast cancer,114480
+NBAT-1,breast cancer,114480
+NEAT1,breast cancer,114480
+NKILA,breast cancer,114480
+PVT1,breast cancer,114480
+RP11-445H22.4,breast cancer,114480
+RP4-583P15.10,breast cancer,114480
+SOX2OT,breast cancer,114480
+SPRY4-IT1,breast cancer,114480
+SRA1,breast cancer,114480
+UCA1,breast cancer,114480
+XIST,breast cancer,114480
+ZFAS1,breast cancer,114480
+BCAR4,breast cancer,114480
+BCYRN1,breast cancer,114480
+CDKN2B-AS1,breast cancer,114480
+DSCAM-AS1,breast cancer,114480
+GAS5,breast cancer,114480
+H19,breast cancer,114480
+HOTAIR,breast cancer,114480
+Loc554202,breast cancer,114480
+LSINCT5,breast cancer,114480
+MALAT1,breast cancer,114480
+MEG3,breast cancer,114480
+MIR31HG,breast cancer,114480
+PVT1,breast cancer,114480
+SRA1,breast cancer,114480
+XIST,breast cancer,114480
+ZNFX1-AS1,breast cancer,114480
+lincRNA-p21,Burkitts lymphoma,113970
+NEAT1,Burkitts lymphoma,113970
+PVT1,Burkitts lymphoma,113970
+7SK,cancer,700000
+ANRIL,cancer,700000
+BOK-AS1,cancer,700000
+CDKN2B-AS1,cancer,700000
+CDKN2B-AS4,cancer,700000
+EPB41L4A-AS1,cancer,700000
+GAS5,cancer,700000
+H19,cancer,700000
+HOTAIR,cancer,700000
+KRAS1P,cancer,700000
+MALAT1,cancer,700000
+MEG3,cancer,700000
+MIAT,cancer,700000
+MIR17HG,cancer,700000
+PANDAR,cancer,700000
+PCAT1,cancer,700000
+PTENP1,cancer,700000
+PVT1,cancer,700000
+RRP1B,cancer,700000
+TARID,cancer,700000
+TC0100223,cancer,700000
+TC0101441,cancer,700000
+TC0101686,cancer,700000
+WRAP53,cancer,700000
+XIST,cancer,700000
+Yiya,cancer,700000
+CBR3-AS1,cancer,700000
+SRA1,cardiomyopathy,192600
+RNase MRP,Cartilage Hair Hypoplaisia,250250
+CECR3,cat eye syndrome,115470
+CECR9,cat eye syndrome,115470
+ANRIL,cervical cancer,603956
+ASK00420,cervical cancer,603956
+BC200,cervical cancer,603956
+CCHE1,cervical cancer,603956
+GAS5,cervical cancer,603956
+HOTAIR,cervical cancer,603956
+lincRNA-p21,cervical cancer,603956
+lncRNA-EBIC,cervical cancer,603956
+lncRNA-LET,cervical cancer,603956
+MALAT1,cervical cancer,603956
+MEG3,cervical cancer,603956
+ncRNA-CCND1,cervical cancer,603956
+TI09485,cervical cancer,603956
+TI10124,cervical cancer,603956
+TI13831,cervical cancer,603956
+TI18318,cervical cancer,603956
+TI21327,cervical cancer,603956
+TI22687,cervical cancer,603956
+XLOC_010588,cervical cancer,603956
+BCYRN1,cervical cancer,603956
+H19,cervical cancer,603956
+HOTAIR,cervical cancer,603956
+MALAT1,cervical cancer,603956
+TUSC8,cervical cancer,603956
+DLEU1,chronic lymphocytic leukemia,109543
+DLEU2,chronic lymphocytic leukemia,109543
+lincRNA-p21,chronic lymphocytic leukemia,109543
+NEAT1,chronic lymphocytic leukemia,109543
+DLEU1,chronic lymphocytic leukemia,109543
+DLEU2,chronic lymphocytic leukemia,109543
+MIR155HG,chronic lymphocytic leukemia,109543
+H19,chronic myeloid leukemia,608232
+lncRNA-BGL3,chronic myeloid leukemia,608232
+MEG3,chronic myeloid leukemia,608232
+MEG3,chronic myeloid leukemia,608232
+H19,chronic myeloproliferative disorders,131440
+PVT1,cleft lip,600625
+BACE1AS,colon cancer,120435
+CCAT1,colon cancer,120435
+CCAT2,colon cancer,120435
+DACOR1,colon cancer,120435
+H19,colon cancer,120435
+HOTAIR,colon cancer,120435
+lncRNA-ATB,colon cancer,120435
+MALAT1,colon cancer,120435
+MEG3,colon cancer,120435
+PRAS,colon cancer,120435
+snaR,colon cancer,120435
+H19,colon cancer,120435
+HOTAIR,colon cancer,120435
+MALAT1,colon cancer,120435
+MEG3,colon cancer,120435
+91H,colon cancer,120435
+AK123657,colon cancer,120435
+BANCR,colon cancer,120435
+BX648207,colon cancer,120435
+BX649059,colon cancer,120435
+CAHM,colon cancer,120435
+CCAL,colon cancer,120435
+CCAT1,colon cancer,120435
+CCAT1-L,colon cancer,120435
+CCAT2,colon cancer,120435
+CCAT3,colon cancer,120435
+CCAT4,colon cancer,120435
+CCAT6,colon cancer,120435
+CCAT7,colon cancer,120435
+CCAT8,colon cancer,120435
+CRNDE,colon cancer,120435
+DANCR,colon cancer,120435
+ENST00000468960,colon cancer,120435
+ENST00000539009,colon cancer,120435
+ENST00000544591,colon cancer,120435
+ENST00000575202,colon cancer,120435
+FTX,colon cancer,120435
+GAS5,colon cancer,120435
+H19,colon cancer,120435
+HOTAIR,colon cancer,120435
+HOTTIP,colon cancer,120435
+HULC,colon cancer,120435
+KCNQ1OT1,colon cancer,120435
+LINC01021,colon cancer,120435
+lincRNA-p21,colon cancer,120435
+linc-ROR,colon cancer,120435
+LNC00964-3,colon cancer,120435
+lncRNA-422,colon cancer,120435
+lncRNA-ATB,colon cancer,120435
+lncRNA-LET,colon cancer,120435
+LOC100287225,colon cancer,120435
+LOC152578,colon cancer,120435
+LOC554202,colon cancer,120435
+LSINCT5,colon cancer,120435
+MALAT1,colon cancer,120435
+MEG3,colon cancer,120435
+MNX1-AS1,colon cancer,120435
+ncNRFR,colon cancer,120435
+ncRAN,colon cancer,120435
+ncRuPAR,colon cancer,120435
+NEAT1,colon cancer,120435
+NR_015441,colon cancer,120435
+NR_033374,colon cancer,120435
+NR_038990,colon cancer,120435
+PCAT-1,colon cancer,120435
+PINT,colon cancer,120435
+PRNCR1,colon cancer,120435
+PVT1,colon cancer,120435
+R05532,colon cancer,120435
+RPL34-AS1,colon cancer,120435
+TCONS_00026506,colon cancer,120435
+TUSC7,colon cancer,120435
+uc.388,colon cancer,120435
+uc.73,colon cancer,120435
+UCA1,colon cancer,120435
+XIST,colon cancer,120435
+XLOC_000303,colon cancer,120435
+XLOC_006844,colon cancer,120435
+ZFAS1,colon cancer,120435
+CCAT1,colon cancer,120435
+CRNDE,colon cancer,120435
+HOTAIR,colon cancer,120435
+KCNQ1OT1,colon cancer,120435
+lncRNA-ATB,colon cancer,120435
+MALAT1,colon cancer,120435
+NPTN-IT1,colon cancer,120435
+SNHG16,colon cancer,120435
+H19,Congenital hyperinsulinism,256450
+CDKN2B-AS1,coronary artery disease,168820
+H19,coronary artery disease,168820
+CDKN2B-AS1,coronary disease,168820
+CDKN2B-AS1,coronary heart disease,168820
+CDKN2B-AS2,coronary heart disease,168820
+DQ786243,Crohn disease,266600
+BDNF-AS,depression,608516
+DISC2,depression,608516
+DISC2,depression,608516
+CDKN2B-AS1,Diabetes,222100
+MALAT1,Diabetes,222100
+MALAT1,Diabetes,222100
+IGF2-AS,Diabetes,222100
+MEG3,Diabetes,222100
+PVT1,Diabetes,222100
+PVT1,diabetic nephropathy,603933
+DGCR5,DiGeorge syndrome,188400
+ATP6V1G2-DDX39B,dilated cardiomyopathy,115200
+SRA1,dilated cardiomyopathy,115200
+MIAT,drug abuse,606581
+KUCG1,Duchenne muscular dystrophy,310200
+LINCMD1,Duchenne muscular dystrophy,310200
+TERC,dyskeratosis congenita,305000
+WRAP53,dyskeratosis congenita,305000
+CASC2,endometrial cancer,608089
+HOTAIR,endometrial cancer,608089
+MALAT1,endometrial cancer,608089
+ASLNC04080,endometrial cancer,608089
+ENST00000445734,endometrial cancer,608089
+ENST00000448093,endometrial cancer,608089
+ENST00000502941,endometrial cancer,608089
+ENST00000503710,endometrial cancer,608089
+GAS5,endometrial cancer,608089
+HOTAIR,endometrial cancer,608089
+uc002nbr.3,endometrial cancer,608089
+uc003xut.,endometrial cancer,608089
+uc021re1.1,endometrial cancer,608089
+1B FGF-antisense transcripts,endometriosis,131200
+CDKN2B-AS1,endometriosis,131200
+cyclin-dependent kinase inhibitor 2B antisense RNA (CDKN2B-AS),endometriosis,131200
+wingless-type MMTV integration site family member 4 (WNT4),endometriosis,131200
+Dnm3os,epithelial ovarian cancer,167000
+MEG3,epithelial ovarian cancer,167000
+TC0100223,epithelial ovarian cancer,167000
+TC0101441,epithelial ovarian cancer,167000
+TC0101686,epithelial ovarian cancer,167000
+HOST2,epithelial ovarian cancer,167000
+HOTAIR,epithelial ovarian cancer,167000
+ANRIL,epithelial ovarian cancer,167000
+HOTAIR,epithelial ovarian cancer,167000
+AFAP1-AS1,esophageal adenocancer,614266
+AFAP1-AS1,esophageal adenocancer,614266
+HNF1A-AS1,esophageal adenocancer,614266
+H19,Esophageal squamous cell cancer,133239
+PEG10,Esophageal squamous cell cancer,133239
+ESCCAL-1,Esophageal squamous cell cancer,133239
+ESCCAL-5,Esophageal squamous cell cancer,133239
+H19,Esophageal squamous cell cancer,133239
+HOTAIR,Esophageal squamous cell cancer,133239
+MINA,Esophageal squamous cell cancer,133239
+SOX2-OT,Esophageal squamous cell cancer,133239
+SPRY4-IT1,Esophageal squamous cell cancer,133239
+ANRIL,esophageal squamous cell cancer,133239
+BOKAS,esophageal squamous cell cancer,133239
+CCAT2,esophageal squamous cell cancer,133239
+ENST00000435885.1,esophageal squamous cell cancer,133239
+ENST00000547963.1,esophageal squamous cell cancer,133239
+Epist,esophageal squamous cell cancer,133239
+ESCCAL-1,esophageal squamous cell cancer,133239
+ESCCAL-5,esophageal squamous cell cancer,133239
+FOXCUT,esophageal squamous cell cancer,133239
+H19,esophageal squamous cell cancer,133239
+HNF1A-AS1,esophageal squamous cell cancer,133239
+HOTAIR,esophageal squamous cell cancer,133239
+linc-POU3F3,esophageal squamous cell cancer,133239
+lincRNA-uc002yug.2,esophageal squamous cell cancer,133239
+MALAT1,esophageal squamous cell cancer,133239
+NEAT1,esophageal squamous cell cancer,133239
+PCAT-1,esophageal squamous cell cancer,133239
+PlncRNA-1,esophageal squamous cell cancer,133239
+SOX2OT,esophageal squamous cell cancer,133239
+SOX2OT-S1,esophageal squamous cell cancer,133239
+SOX2OT-S2,esophageal squamous cell cancer,133239
+SPRY4-IT1,esophageal squamous cell cancer,133239
+TUG1,esophageal squamous cell cancer,133239
+TUSC7,esophageal squamous cell cancer,133239
+UCA1,esophageal squamous cell cancer,133239
+XLOC_013014,esophageal squamous cell cancer,133239
+ZEB1-AS1,esophageal squamous cell cancer,133239
+BC200,Esophageal squamous cell- cancer,133239
+CDKN2B-AS1,Esophageal squamous cell- cancer,133239
+LOC285194,esophageal squamous cell cancer ,133239
+EWSAT1,Ewing sarcoma,612219
+D4Z4,Facioscapulohumeral muscular dystrophy,158901
+DBE-T,Facioscapulohumeral muscular dystrophy,158901
+MALAT1,fibrosarcoma,177075
+ASFMR1,fragile X syndrome,300624
+FMR4,fragile X syndrome,300624
+FMR5,Fragile X syndrome,300624
+FMR6,Fragile X syndrome,300624
+FMR4,Fragile X-associated tremor and ataxia syndrome,300623
+FMR5,Fragile X-associated tremor and ataxia syndrome,300623
+FMR6,Fragile X-associated tremor and ataxia syndrome,300623
+NEAT-1,frontotemporal lobar degeneration,607485
+CCAT1,gallbladder cancer,600803
+HOTAIR,gallbladder cancer,600803
+KIAA0125,gallbladder cancer,600803
+lncRNA-LET,gallbladder cancer,600803
+MALAT1,gallbladder cancer,600803
+MALAT1,gallbladder cancer,600803
+BANCR,gastric adenocancer,137215
+HOTAIR,gastric adenocancer,137215
+ENST00000318333,gastric adenocancer,137215
+ENST00000374520,gastric adenocancer,137215
+ENST00000422362,gastric adenocancer,137215
+ENST00000455912,gastric adenocancer,137215
+ENST00000456007,gastric adenocancer,137215
+ENST00000456185,gastric adenocancer,137215
+H19,gastric adenocancer,137215
+HOTAIR,gastric adenocancer,137215
+NR_003586,gastric adenocancer,137215
+NR_015430,gastric adenocancer,137215
+NR_027775,gastric adenocancer,137215
+NR_033449,gastric adenocancer,137215
+NR_033663,gastric adenocancer,137215
+uc003jfz.2,gastric adenocancer,137215
+AA174084,gastric cancer,613659
+ABHD11-AS1,gastric cancer,613659
+AC104699.1,gastric cancer,613659
+AC130710,gastric cancer,613659
+AC138128.1,gastric cancer,613659
+AI364715,gastric cancer,613659
+AK022798,gastric cancer,613659
+AK022971,gastric cancer,613659
+AK057054,gastric cancer,613659
+AK058003,gastric cancer,613659
+AKR7L,gastric cancer,613659
+ANRIL,gastric cancer,613659
+AP001439.2,gastric cancer,613659
+AP001631.9,gastric cancer,613659
+BANCR,gastric cancer,613659
+BC011663,gastric cancer,613659
+BC032469,gastric cancer,613659
+BC040587,gastric cancer,613659
+BM742401,gastric cancer,613659
+CACNAICAS3,gastric cancer,613659
+CCAT1,gastric cancer,613659
+CCAT2,gastric cancer,613659
+DB077273,gastric cancer,613659
+DKFZP434K028,gastric cancer,613659
+DQ192290,gastric cancer,613659
+EGFLAM-AS1,gastric cancer,613659
+FENDRR,gastric cancer,613659
+FER1L4,gastric cancer,613659
+FRLnc1,gastric cancer,613659
+GAPLINC,gastric cancer,613659
+GAS5,gastric cancer,613659
+GHET1,gastric cancer,613659
+GS1-5L10.1,gastric cancer,613659
+H19,gastric cancer,613659
+HIF1A-AS2,gastric cancer,613659
+HIV1230,gastric cancer,613659
+HMlincRNA717,gastric cancer,613659
+HNF1A-AS1,gastric cancer,613659
+HOTAIR,gastric cancer,613659
+HOXA-AS2,gastric cancer,613659
+HULC,gastric cancer,613659
+INTS7,gastric cancer,613659
+LEIGC,gastric cancer,613659
+LINC00152,gastric cancer,613659
+LINC00261,gastric cancer,613659
+LINC00982,gastric cancer,613659
+linc-ROR,gastric cancer,613659
+linc-UBC1,gastric cancer,613659
+LncRNA-AP001631.9,gastric cancer,613659
+lncRNA-ATB,gastric cancer,613659
+lncRNA-LET,gastric cancer,613659
+LOC150622,gastric cancer,613659
+LOC554202,gastric cancer,613659
+LSINCT5,gastric cancer,613659
+M14574,gastric cancer,613659
+M59227,gastric cancer,613659
+MALAT1,gastric cancer,613659
+MALAT2,gastric cancer,613659
+MEG3,gastric cancer,613659
+MRUL,gastric cancer,613659
+MYLK-AS1,gastric cancer,613659
+nc886,gastric cancer,613659
+ncRuPAR,gastric cancer,613659
+PRNCR1,gastric cancer,613659
+PRSS21,gastric cancer,613659
+PTENP1,gastric cancer,613659
+PVT1,gastric cancer,613659
+RP11-119F7.4,gastric cancer,613659
+RP11-528G1.2,gastric cancer,613659
+RP11-643M14.1,gastric cancer,613659
+RP11-789C1.1,gastric cancer,613659
+RPL34-AS1,gastric cancer,613659
+SNHG15,gastric cancer,613659
+SPRY4-IT1,gastric cancer,613659
+SUMO1P3,gastric cancer,613659
+TINCR,gastric cancer,613659
+TSNAX-DISC1,gastric cancer,613659
+TUSC7,gastric cancer,613659
+uc.341,gastric cancer,613659
+uc001lsz,gastric cancer,613659
+uc003iqu,gastric cancer,613659
+uc003tfx,gastric cancer,613659
+UCA1,gastric cancer,613659
+WT1-AS,gastric cancer,613659
+XLOC_010235,gastric cancer,613659
+ZMAT1,gastric cancer,613659
+7SK,gastric cancer,613659
+CCAT1,gastric cancer,613659
+CDKN2B-AS1,gastric cancer,613659
+GAPLINC,gastric cancer,613659
+GHET1,gastric cancer,613659
+H19,gastric cancer,613659
+HOTAIR,gastric cancer,613659
+HOTAIR,gastric cancer,613659
+MALAT2-activated long noncoding RNA,gastric cancer,613659
+MEG3,gastric cancer,613659
+MINA,gastric cancer,613659
+PVT1,gastric cancer,613659
+SPRY4-IT1,gastric cancer,613659
+SUMO1P3,gastric cancer,613659
+TINCR,gastric cancer,613659
+tumour suppressor candidate 7 (TUSC7),gastric cancer,613659
+UCA1,gastric cancer,613659
+HOTAIR,gastrointestinal stromal tumor,606764
+H19,gestational trophoblastic diseases,231090
+CDKN2B-AS1,Glaucoma,137750
+anti-NOS2A,glioblastoma,137800
+APTR,glioblastoma,137800
+H19,glioblastoma,137800
+XIST,glioblastoma,137800
+anti-NOS2A,glioblastoma,137800
+H19,glioblastoma,137800
+MALAT1,glioblastoma,137800
+ADAMTS9-AS2,glioblastoma,137800
+ANRIL,glioblastoma,137800
+BC200,glioblastoma,137800
+CASC2,glioblastoma,137800
+CRNDE,glioblastoma,137800
+H19,glioblastoma,137800
+HOTAIR,glioblastoma,137800
+linc-POU3F3,glioblastoma,137800
+MALAT1,glioblastoma,137800
+MEG3,glioblastoma,137800
+MIR155HG,glioblastoma,137800
+NEAT1,glioblastoma,137800
+SPRY4-IT1,glioblastoma,137800
+ST7OT1,glioblastoma,137800
+TSLC1-AS1,glioblastoma,137800
+TUG1,glioblastoma,137800
+uc.283-plus,glioblastoma,137800
+ADAMTS9-AS2,glioblastoma,137800
+CCDC26,glioblastoma,137800
+CDKN2B-AS1,glioblastoma,137800
+CDKN2B-AS12,glioblastoma,137800
+H19,glioblastoma,137800
+linc-POU3F3,glioblastoma,137800
+MEG3,glioblastoma,137800
+H19,growth restriction,616489
+XLOC_000620,H. pylori-related diseases,600263
+XLOC_004122,H. pylori-related diseases,600263
+XLOC_004562,H. pylori-related diseases,600263
+XLOC_005912,H. pylori-related diseases,600263
+XLOC_014388,H. pylori-related diseases,600263
+ATP6V1G2-DDX39B,HCV,609532
+DMPK 3'UTR,Heart Failure,109630
+LIPCAR,Heart Failure,109630
+H19,hematopoiesis,162800
+H19,hepatocelluar cancer,114550
+HEIH,hepatocelluar cancer,114550
+HOTAIR,hepatocelluar cancer,114550
+HOTTIP,hepatocelluar cancer,114550
+HULC,hepatocelluar cancer,114550
+IGF2-AS,hepatocelluar cancer,114550
+KCNQ1OT1,hepatocelluar cancer,114550
+LALR,hepatocelluar cancer,114550
+lncRNA-ATB,hepatocelluar cancer,114550
+lncRNA-MVIH,hepatocelluar cancer,114550
+MALAT1,hepatocelluar cancer,114550
+MEG3,hepatocelluar cancer,114550
+MINA,hepatocelluar cancer,114550
+MIR7-3HG,hepatocelluar cancer,114550
+NPTN-IT1,hepatocelluar cancer,114550
+AF070632,hepatocellular cancer,114550
+AK021443,hepatocellular cancer,114550
+AK055007,hepatocellular cancer,114550
+AK056988,hepatocellular cancer,114550
+AK093543,hepatocellular cancer,114550
+AK123790,hepatocellular cancer,114550
+ANRIL,hepatocellular cancer,114550
+AOC4P,hepatocellular cancer,114550
+AY129027,hepatocellular cancer,114550
+BC014579,hepatocellular cancer,114550
+BC017743,hepatocellular cancer,114550
+C14orf132,hepatocellular cancer,114550
+CCAT1,hepatocellular cancer,114550
+CR613944,hepatocellular cancer,114550
+CTB-167B5.2,hepatocellular cancer,114550
+D16366,hepatocellular cancer,114550
+DANCR,hepatocellular cancer,114550
+DBH-AS1,hepatocellular cancer,114550
+DQ786243,hepatocellular cancer,114550
+EGFR-AS1,hepatocellular cancer,114550
+ENST00000395084,hepatocellular cancer,114550
+ENST00000501583,hepatocellular cancer,114550
+GAS5,hepatocellular cancer,114550
+H19,hepatocellular cancer,114550
+HEIH,hepatocellular cancer,114550
+HOTAIR,hepatocellular cancer,114550
+HOTTIP,hepatocellular cancer,114550
+HOXA13,hepatocellular cancer,114550
+HULC,hepatocellular cancer,114550
+ICR,hepatocellular cancer,114550
+IGF2-AS,hepatocellular cancer,114550
+KCNQ1OT1,hepatocellular cancer,114550
+LINC00152,hepatocellular cancer,114550
+LINC00974,hepatocellular cancer,114550
+LINC01419,hepatocellular cancer,114550
+lincRNA-CALCA,hepatocellular cancer,114550
+lincRNA-p21,hepatocellular cancer,114550
+lincRNA-TSPAN8,hepatocellular cancer,114550
+linc-ROR,hepatocellular cancer,114550
+linc-VLDLR,hepatocellular cancer,114550
+lnc-AF085935,hepatocellular cancer,114550
+lncRNA-ATB,hepatocellular cancer,114550
+lncRNA-Dreh,hepatocellular cancer,114550
+lncRNA-Hpvt1,hepatocellular cancer,114550
+lncRNA-LET,hepatocellular cancer,114550
+lncTCF7,hepatocellular cancer,114550
+lnc-uc003wbd,hepatocellular cancer,114550
+LOC149086,hepatocellular cancer,114550
+MALAT1,hepatocellular cancer,114550
+MEG3,hepatocellular cancer,114550
+MVIH,hepatocellular cancer,114550
+NCRNA00173,hepatocellular cancer,114550
+NEAT1,hepatocellular cancer,114550
+NR_015378,hepatocellular cancer,114550
+NR_024284,hepatocellular cancer,114550
+NR_026591,hepatocellular cancer,114550
+NR_027151,hepatocellular cancer,114550
+P14695,hepatocellular cancer,114550
+P16984,hepatocellular cancer,114550
+P19780,hepatocellular cancer,114550
+P23099,hepatocellular cancer,114550
+P24363,hepatocellular cancer,114550
+P28210,hepatocellular cancer,114550
+P33863,hepatocellular cancer,114550
+P4091,hepatocellular cancer,114550
+P6391,hepatocellular cancer,114550
+P6488,hepatocellular cancer,114550
+P700,hepatocellular cancer,114550
+P8611,hepatocellular cancer,114550
+P8725,hepatocellular cancer,114550
+P8860,hepatocellular cancer,114550
+P9745,hepatocellular cancer,114550
+PANDAR,hepatocellular cancer,114550
+PCNA-AS1,hepatocellular cancer,114550
+PRAL,hepatocellular cancer,114550
+PTENP1,hepatocellular cancer,114550
+PVT1,hepatocellular cancer,114550
+RP11-160H22.5,hepatocellular cancer,114550
+RP11-304L19.5,hepatocellular cancer,114550
+RP11-401P9.4,hepatocellular cancer,114550
+RP11-501G6.1,hepatocellular cancer,114550
+RP11-672F9.1,hepatocellular cancer,114550
+RP5-1014O16.1,hepatocellular cancer,114550
+SIRT1-AS,hepatocellular cancer,114550
+SNHG3,hepatocellular cancer,114550
+SOX2OT,hepatocellular cancer,114550
+SRHC,hepatocellular cancer,114550
+TCF7,hepatocellular cancer,114550
+TCONS_00018278,hepatocellular cancer,114550
+TUC339,hepatocellular cancer,114550
+TUG1,hepatocellular cancer,114550
+uc001ncr  ,hepatocellular cancer,114550
+uc002pyc,hepatocellular cancer,114550
+uc003yqb.1,hepatocellular cancer,114550
+uc004bdv.3,hepatocellular cancer,114550
+UCA1,hepatocellular cancer,114550
+UFC1,hepatocellular cancer,114550
+ULK4P2,hepatocellular cancer,114550
+URHC,hepatocellular cancer,114550
+WRAP53,hepatocellular cancer,114550
+WT1-AS,hepatocellular cancer,114550
+XLOC_014172,hepatocellular cancer,114550
+ZEB1-AS1,hepatocellular cancer,114550
+ZFAS1,hepatocellular cancer,114550
+PVT1,hepatocellular cancer,114550
+UCA1,hepatocellular cancer,114550
+H19,hepatocellular cancer,114550
+HOTAIR,hepatocellular cancer,114550
+HULC,hepatocellular cancer,114550
+IGF2-AS,hepatocellular cancer,114550
+lncRNA-LALR1,hepatocellular cancer,114550
+MALAT1,hepatocellular cancer,114550
+MT1DP,hepatocellular cancer,114550
+uc001lsz,hepatocellular cancer,114550
+uc002mbe.2,hepatocellular cancer,114550
+UCA1,hepatocellular cancer,114550
+H19,hepatocellular cancer,114550
+HOTAIR,hepatocellular cancer,114550
+HULC,hepatocellular cancer,114550
+LncRNA-LALR1,hepatocellular cancer,114550
+MALAT1,hepatocellular cancer,114550
+HULC,hepatoma,600339
+ENSG00000135253.9,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000147753.5,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000196096.3,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000197251.3,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000203325.3,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000206129.3,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000215231.3,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000215374.4,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000215808.2,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000226496.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000229563.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000230133.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000230544.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000231133.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000231185.2,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000232021.2,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000232046.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000232956.3,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000233154.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000233251.3,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000235285.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000237036.3,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000237548.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000240453.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000241269.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000245910.3,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000248176.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000249364.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000249772.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000250195.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000250608.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000254154.3,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000255471.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000256218.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000259150.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000259334.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000259484.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000259758.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000263753.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000264772.1,Hereditary Haemorrhagic Telangiectasia,187300
+ENSG00000266952.1,Hereditary Haemorrhagic Telangiectasia,187300
+HA117,Hirschsprung's disease,142623
+PVT1,Hodgkin's lymphoma,236000
+ATXN8OS,human spinocerebellar ataxia type 8,164400
+BDNF-AS,Huntington's disease,143100
+DGCR5,Huntington's disease,143100
+HAR1A,Huntington's disease,143100
+HAR1B,Huntington's disease,143100
+HTTAS,Huntington's disease,143100
+HTTAS_v1,Huntington's disease,143100
+MEG3,Huntington's disease,143100
+NEAT-1,Huntington's disease,143100
+REST/CoREST-regulated lncRNAs,Huntington's disease,143100
+TUG1,Huntington's disease,143100
+H19,hyperhomocysteinemia,603174
+BACE1-AS,Inclusion body myositis,147421
+H19,infertility,243060
+Neat1,infertility,243060
+LINC00299,Intellectual and developmental disability,617157
+CDKN2B-AS1,intracranial aneurism,105800
+CDKN2B-AS3,intracranial aneurism,105800
+ESRG,intracranial aneurism,105800
+CPS1-IT1,intrahepatic cholangiocancer,615619
+NEAT-1,Intrauterine Growth Restriction,614732
+PAN,Kaposi's sarcoma,148000
+THRIL,Kawasaki disease,611775
+lnc-KCTD6-3,laryngeal cancer,600805
+7SL,Leishmania,602068
+HLA-AS1,liver injury,142830
+AC004166.7,lung cancer,211980
+AC079776.2,lung cancer,211980
+CTA-363E6.2,lung cancer,211980
+DLX6-AS1,lung cancer,211980
+ENST00000434223,lung cancer,211980
+ENST00000442037,lung cancer,211980
+ENST00000540136,lung cancer,211980
+GAS5,lung cancer,211980
+HNF1A-AS1,lung cancer,211980
+HOTAIR,lung cancer,211980
+LINC01207,lung cancer,211980
+LOC100132354,lung cancer,211980
+LOC100499405,lung cancer,211980
+LOC440905,lung cancer,211980
+LUADT1,lung cancer,211980
+MALAT1,lung cancer,211980
+MEG3,lung cancer,211980
+NR_034174,lung cancer,211980
+NR_038125,lung cancer,211980
+NR_047562,lung cancer,211980
+RP11-1C1.7,lung cancer,211980
+RP11-325I22.2,lung cancer,211980
+RP11-445K13.2,lung cancer,211980
+RP11-473M20.11,lung cancer,211980
+RP11-893F2.6,lung cancer,211980
+RP11-909N17.3,lung cancer,211980
+RP13-514E23.1,lung cancer,211980
+RP1-90D4.3,lung cancer,211980
+RP4-575N6.5,lung cancer,211980
+RP5-826L7.1,lung cancer,211980
+RPLP0P2,lung cancer,211980
+uc001gch.1,lung cancer,211980
+uc001gzl.3,lung cancer,211980
+uc004bbl.1,lung cancer,211980
+XLOC_003286,lung cancer,211980
+XLOC_003405,lung cancer,211980
+XLOC_012255,lung cancer,211980
+ZNF295-AS1,lung cancer,211980
+ZXF1,lung cancer,211980
+ACTA2-AS1,lung cancer,211980
+HOTAIR,lung cancer,211980
+MALAT1,lung cancer,211980
+AF118081,lung cancer,211980
+AFAP1-AS1,lung cancer,211980
+BANCR,lung cancer,211980
+BC200,lung cancer,211980
+H19,lung cancer,211980
+HOTAIR,lung cancer,211980
+LCAL1,lung cancer,211980
+linc-CBR1-2,lung cancer,211980
+lincRNA-p21,lung cancer,211980
+lnc-bc060912,lung cancer,211980
+lncRNA-DQ786227,lung cancer,211980
+LOC728228,lung cancer,211980
+LSINCT1,lung cancer,211980
+LSINCT10,lung cancer,211980
+LSINCT11,lung cancer,211980
+LSINCT12,lung cancer,211980
+LSINCT2,lung cancer,211980
+LSINCT3,lung cancer,211980
+LSINCT4,lung cancer,211980
+LSINCT5,lung cancer,211980
+LSINCT6,lung cancer,211980
+LSINCT7,lung cancer,211980
+LSINCT8,lung cancer,211980
+LSINCT9,lung cancer,211980
+MALAT1,lung cancer,211980
+MA-linc1,lung cancer,211980
+MEG3,lung cancer,211980
+NRG1,lung cancer,211980
+SCAL1,lung cancer,211980
+uc001lsz,lung cancer,211980
+UCA1,lung cancer,211980
+BCYRN1,lung cancer,211980
+H19,lung cancer,211980
+HOTAIR,lung cancer,211980
+LincRNA-p21,lung cancer,211980
+LOC728228,lung cancer,211980
+MALAT1,lung cancer,211980
+MEG3,lung cancer,211980
+MINA,lung cancer,211980
+AC007403.1,lung cancer,211980
+AC013264.2,lung cancer,211980
+AC090952.4.1,lung cancer,211980
+ADAMTS9-AS2,lung cancer,211980
+AFAP1-AS1,lung cancer,211980
+AK123263,lung cancer,211980
+AK126698,lung cancer,211980
+ANRIL,lung cancer,211980
+BANCR,lung cancer,211980
+C1401f132,lung cancer,211980
+CCAT1,lung cancer,211980
+CCAT2,lung cancer,211980
+CES1P1-001,lung cancer,211980
+ERICH1-AS1,lung cancer,211980
+GAS5,lung cancer,211980
+GAS6-AS1,lung cancer,211980
+GHSROS,lung cancer,211980
+GNAS-AS1,lung cancer,211980
+GUCY1B2,lung cancer,211980
+H19,lung cancer,211980
+HIF1A-AS1,lung cancer,211980
+HMlincRNA717,lung cancer,211980
+HOTAIR,lung cancer,211980
+LINC00261,lung cancer,211980
+LINC00673,lung cancer,211980
+LOC440905,lung cancer,211980
+MALAT1,lung cancer,211980
+MEG3,lung cancer,211980
+MVIH,lung cancer,211980
+NAG7,lung cancer,211980
+NCRNA00210,lung cancer,211980
+NEAT1,lung cancer,211980
+PANDAR,lung cancer,211980
+PVT1,lung cancer,211980
+RGMB-AS1,lung cancer,211980
+RP11-385J1.2,lung cancer,211980
+RP11-397D12.4,lung cancer,211980
+RP11-909N17.3,lung cancer,211980
+RP1-317E23.3,lung cancer,211980
+RP3-508I15.14,lung cancer,211980
+SKP2,lung cancer,211980
+SNHG1,lung cancer,211980
+TP53TG1,lung cancer,211980
+TP73-AS1,lung cancer,211980
+TUBA4B,lung cancer,211980
+TUG1,lung cancer,211980
+uc003bgl.1,lung cancer,211980
+UCA1,lung cancer,211980
+XIST,lung cancer,211980
+XLOC_000371,lung cancer,211980
+Z82214.3,lung cancer,211980
+BANCR,lung cancer,211980
+CCAT2,lung cancer,211980
+HOTAIR,lung cancer,211980
+lncRNA-MVIH,lung cancer,211980
+MALAT1,lung cancer,211980
+TUG1,lung cancer,211980
+DLEU2,lymphocytic leukemia,151400
+DLEU2,lymphoma,137245
+GAS5,lymphoma,137245
+DLEU2,lymphoma,137245
+GAS5,lymphoma,137245
+MIR17HG,lymphoma,137245
+PVT1,lymphoma,137245
+SNHG5,lymphoma,137245
+TCL6,lymphoma,137245
+Alu lncRNAs,Macular degeneration,603075
+CDKN2B-AS1,malignant melanoma,155600
+BANCR,malignant melanoma,155600
+linc-ROR,malignant melanoma,155600
+AF268386,malignant pleural mesothelioma,156240
+AK054908,malignant pleural mesothelioma,156240
+AK129685,malignant pleural mesothelioma,156240
+AK130275,malignant pleural mesothelioma,156240
+AK130977,malignant pleural mesothelioma,156240
+AX746718,malignant pleural mesothelioma,156240
+BX648695,malignant pleural mesothelioma,156240
+EF177379,malignant pleural mesothelioma,156240
+GAS5,malignant pleural mesothelioma,156240
+NR_003584,malignant pleural mesothelioma,156240
+PVT1,malignant pleural mesothelioma,156240
+H19,medulloblastoma,155255
+H19,medulloblastoma,155255
+ANRIL,melanoma,155600
+BANCR,melanoma,155600
+HOTAIR,melanoma,155600
+Llme23,melanoma,155600
+MALAT1,melanoma,155600
+SPRY4-IT1,melanoma,155600
+UCA1,melanoma,155600
+BANCR,melanoma,155600
+CDKN2B-AS1,melanoma,155600
+CDKN2B-AS8,melanoma,155600
+GAS5,melanoma,155600
+H19,melanoma,155600
+LINC00032,melanoma,155600
+SPRY4-IT1,melanoma,155600
+Xist,membranous nephropathy,614692
+anti-NOS2A,meningioma,607174
+H19,meningioma,607174
+MEG3,meningioma,607174
+anti-NOS2A,meningioma,607174
+H19,meningioma,607174
+MEG3,meningioma,607174
+H19,multiple myeloma,254500
+GAS5,multiple myeloma,254500
+HOTAIR,multiple myeloma,254500
+MALAT1,multiple myeloma,254500
+PVT1,multiple myeloma,254500
+TP73-AS1,multiple myeloma,254500
+TUG1,multiple myeloma,254500
+MALAT1,multiple myeloma,254500
+DLEU2,multiple myeloma,254500
+DLEU2,multiple myeloma,254500
+HLA-AS1,multiple sclerosis,126200
+IFNG-AS1,multiple sclerosis,126200
+MEG3,myelodysplastic syndrome,614286
+SNHG4,myelodysplastic syndrome,614286
+H19,myeloproliferative polycythaemia vera,263300
+CDKN2B-AS1,myocardial infarction,608446
+MIAT,myocardial infarction,608446
+MIR100HG,myopia,160700
+DMPK,myotonic dystrophy type 1,160900
+LINC00162,narcolepsy,161400
+AF086415,nasopharyngeal cancer,617075
+AFAP1-AS1,nasopharyngeal cancer,617075
+AK056098,nasopharyngeal cancer,617075
+AK095147,nasopharyngeal cancer,617075
+AK294004,nasopharyngeal cancer,617075
+HOTAIR,nasopharyngeal cancer,617075
+lnc-AL355149.1-1,nasopharyngeal cancer,617075
+lnc-C22orf32-1,nasopharyngeal cancer,617075
+lncRNA-LET,nasopharyngeal cancer,617075
+lnc-ZNF674-1,nasopharyngeal cancer,617075
+LOC401317,nasopharyngeal cancer,617075
+MALAT1,nasopharyngeal cancer,617075
+MUDENG,nasopharyngeal cancer,617075
+NAG7,nasopharyngeal cancer,617075
+RP1-179N16.3,nasopharyngeal cancer,617075
+AF086415,nasopharyngeal cancer,617075
+AK056098,nasopharyngeal cancer,617075
+AK095147,nasopharyngeal cancer,617075
+AK294004,nasopharyngeal cancer,617075
+AP5M1,nasopharyngeal cancer,617075
+CDKN2B-AS1,nasopharyngeal cancer,617075
+HOTAIR,nasopharyngeal cancer,617075
+LINC00312,nasopharyngeal cancer,617075
+lnc-AL355149.1-1,nasopharyngeal cancer,617075
+lnc-C22orf32-1,nasopharyngeal cancer,617075
+lnc-ZNF674-1,nasopharyngeal cancer,617075
+MALAT1,nasopharyngeal cancer,617075
+RP1-179N16.3,nasopharyngeal cancer,617075
+H19,neural tube defects,182940
+CAI2,neuroblastoma,256700
+CASC15-S,neuroblastoma,256700
+HOXD-AS1,neuroblastoma,256700
+LINC00467,neuroblastoma,256700
+lncUSMycN,neuroblastoma,256700
+MALAT1,neuroblastoma,256700
+MEG3,neuroblastoma,256700
+MYCNOS,neuroblastoma,256700
+NDM29,neuroblastoma,256700
+CDKN2B-AS6,neuroblastoma,256700
+H19,neuroblastoma,256700
+MALAT1,neuroblastoma,256700
+MEG3,neuroblastoma,256700
+MYCNOS,neuroblastoma,256700
+NBAT-1,neuroblastoma,256700
+ncRAN,neuroblastoma,256700
+NDM29,neuroblastoma,256700
+T-UCRs,neuroblastoma,256700
+SOX2-OT,Neurodevelopmental syndromes associated with the SOX2 locus,184429
+ANRIL,neurofibromatosis type 1,162200
+CDKN2B-AS1,neurofibromatosis type 1,162200
+MRAK052686,Nonalcoholic fatty liver disease (NAFLD),613282
+BDNF-AS1,obesity,601665
+H19,obesity,601665
+SNHG11,obesity,601665
+HNF1A-AS1,oesophageal adenocancer,614266
+BCYRN1,oesophagus cancer,148500
+RNA-a,Opitz¨CKaveggia syndrome,305450
+AF116616,osteosarcoma,165660
+AK094838,osteosarcoma,165660
+AK097500,osteosarcoma,165660
+AL365371,osteosarcoma,165660
+ANRIL,osteosarcoma,165660
+ASLNC00339,osteosarcoma,165660
+BC002350,osteosarcoma,165660
+BC040587,osteosarcoma,165660
+BC050642,osteosarcoma,165660
+BC091525,osteosarcoma,165660
+BE503655,osteosarcoma,165660
+HIF2PUT,osteosarcoma,165660
+HOTTIP,osteosarcoma,165660
+HULC,osteosarcoma,165660
+MALAT1,osteosarcoma,165660
+MA-linc1,osteosarcoma,165660
+ODRUL,osteosarcoma,165660
+TUG1,osteosarcoma,165660
+TUSC7,osteosarcoma,165660
+U85044,osteosarcoma,165660
+BC040587,osteosarcoma,165660
+LSAMP-AS3,osteosarcoma,165660
+MALAT1,osteosarcoma,165660
+AB073614,ovarian cancer,604370
+BC200,ovarian cancer,604370
+CCAT1,ovarian cancer,604370
+GAS5,ovarian cancer,604370
+H19,ovarian cancer,604370
+HOST2,ovarian cancer,604370
+HOTAIR,ovarian cancer,604370
+HOXA11-AS,ovarian cancer,604370
+LOC100128881,ovarian cancer,604370
+LOC100292680,ovarian cancer,604370
+LSINCT5,ovarian cancer,604370
+MALAT1,ovarian cancer,604370
+MNX1-AS1,ovarian cancer,604370
+OVAL,ovarian cancer,604370
+PVT1,ovarian cancer,604370
+TC1500845,ovarian cancer,604370
+UCA1,ovarian cancer,604370
+XIST,ovarian cancer,604370
+BCYRN1,ovarian cancer,604370
+DNM3OS,ovarian cancer,604370
+H19,ovarian cancer,604370
+LSINCT5,ovarian cancer,604370
+PVT1,ovarian cancer,604370
+SRA1,ovarian cancer,604370
+PANDA,p53-associated pathological states,191170
+CCND1,p53-associated pathological states,191170
+HOTAIR,pancreas cancer,260350
+MALAT1,pancreas cancer,260350
+PVT1,pancreas cancer,260350
+AF075041,pancreas cancer,260350
+AF339813,pancreas cancer,260350
+AK022029,pancreas cancer,260350
+AK022159,pancreas cancer,260350
+AL389956,pancreas cancer,260350
+AP000221.1,pancreas cancer,260350
+BC023629,pancreas cancer,260350
+CR619813,pancreas cancer,260350
+CTC-338M12.5,pancreas cancer,260350
+DDX6P,pancreas cancer,260350
+GAS5,pancreas cancer,260350
+HOTAIR,pancreas cancer,260350
+HOTTIP,pancreas cancer,260350
+HULC,pancreas cancer,260350
+LINC00152,pancreas cancer,260350
+LINC00261,pancreas cancer,260350
+lincRNA-ZNF532,pancreas cancer,260350
+lncRNA-ATB,pancreas cancer,260350
+MALAT1,pancreas cancer,260350
+PVT1,pancreas cancer,260350
+RP11-58D2.1,pancreas cancer,260350
+AFAP1-AS1,pancreas cancer,260350
+BC008363,pancreas cancer,260350
+DAPK1,pancreas cancer,260350
+ENST00000480739,pancreas cancer,260350
+H19,pancreas cancer,260350
+MALAT1,pancreas cancer,260350
+MAP3K14,pancreas cancer,260350
+PPP3CB,pancreas cancer,260350
+PVT1,pancreas cancer,260350
+DAPK1,pancreas cancer,260350
+ENST00000480739,pancreas cancer,260350
+MAP3K14,pancreas cancer,260350
+PPP3CB,pancreas cancer,260350
+DAOA-AS1,panic disorder,167870
+AK023948,papillary thyroid cancer,188550
+BANCR,papillary thyroid cancer,188550
+ENST00000422494.1,papillary thyroid cancer,188550
+HOTAIR,papillary thyroid cancer,188550
+HULC,papillary thyroid cancer,188550
+lnc-KCMF1-2:1,papillary thyroid cancer,188550
+lnc-LLPH-2:1,papillary thyroid cancer,188550
+lnc-PLA2R1-1:1,papillary thyroid cancer,188550
+lnc-PSD4-1:14,papillary thyroid cancer,188550
+MALAT1,papillary thyroid cancer,188550
+MEG3,papillary thyroid cancer,188550
+n335550,papillary thyroid cancer,188550
+n340790,papillary thyroid cancer,188550
+n386477,papillary thyroid cancer,188550
+NAMA,papillary thyroid cancer,188550
+NEAT1,papillary thyroid cancer,188550
+NONHSAT037832,papillary thyroid cancer,188550
+NR_003225.2,papillary thyroid cancer,188550
+PTCSC2,papillary thyroid cancer,188550
+PTCSC3,papillary thyroid cancer,188550
+TCONS_l2_00010365,papillary thyroid cancer,188550
+AK023948,papillary thyroid cancer,188550
+NAMA,papillary thyroid cancer,188550
+PTCSC,papillary thyroid cancer,188550
+PTCSC3,papillary thyroid cancer,188550
+PTCSC3,papillary thyroid cancer,188550
+PVT1,papillary thyroid cancer,188550
+antisense to Uchl1 (AS Uchl1),Parkinson's disease,168600
+LINC01262,Parkinson's disease,168600
+PINK1-AS,Parkinson's disease,168600
+U1 spliceosomal lncRNA,Parkinson's disease,168600
+UCH1LAS,Parkinson's disease,168600
+ANRIL,periodontitis,170650
+CDKN2B-AS1,periodontitis,170650
+CDKN2B-AS1,peripheral artery disease,606787
+MEG3,pheochromocytoma,171300
+H19,pheochromocytoma,171300
+GADD45G,pituitary adenoma,102200
+HOTAIR,pituitary adenoma,102200
+MALAT1,pituitary adenoma,102200
+MEG3,pituitary adenoma,102200
+H19,Pituitary adenoma,102200
+MEG3,Pituitary adenoma,102200
+Androgen Receptor Coregulator CTBP1-AS,Polycystic Ovary Syndrome,184700
+7SL,polymyositis,605960
+DANCR,postmenopausal osteoporosis,166710
+116HG,Prader-Willi syndrome,176270
+C15orf2,Prader-Willi syndrome,176270
+H19,Prader-Willi syndrome,176270
+IPW,Prader-Willi syndrome,176270
+MKRN3-AS1,Prader-Willi syndrome,176270
+UBE3A-AS1,Prader-Willi syndrome,176270
+H19,pre-eclampsia,189800
+SLC7A2-IT1A/B,Progressive encephalopathy with severe infantile anorexia,203700
+HOTAIRM1,promyelocytic leukemia,102578
+AK024556,prostate cancer,176807
+ANRIL,prostate cancer,176807
+BX647187 ,prostate cancer,176807
+CTBP1-AS,prostate cancer,176807
+DANCR,prostate cancer,176807
+DRAIC,prostate cancer,176807
+EGOT,prostate cancer,176807
+FR0257520,prostate cancer,176807
+FR0348383,prostate cancer,176807
+GAS5,prostate cancer,176807
+H19,prostate cancer,176807
+HOTAIR,prostate cancer,176807
+HOTTIP,prostate cancer,176807
+HULC,prostate cancer,176807
+KCNQ1OT1,prostate cancer,176807
+LINC00963,prostate cancer,176807
+lincRNA-p21,prostate cancer,176807
+LOC100287482,prostate cancer,176807
+MALAT1,prostate cancer,176807
+MEG3,prostate cancer,176807
+NEAT1,prostate cancer,176807
+PCA3,prostate cancer,176807
+PCAN-R1,prostate cancer,176807
+PCAN-R2,prostate cancer,176807
+PCAT-1,prostate cancer,176807
+PCAT18,prostate cancer,176807
+PCAT29,prostate cancer,176807
+PCAT5,prostate cancer,176807
+PCGEM1,prostate cancer,176807
+PCOTH,prostate cancer,176807
+PlncRNA-1,prostate cancer,176807
+POU5F1P1,prostate cancer,176807
+PRINS,prostate cancer,176807
+PRNCR1,prostate cancer,176807
+PVT1,prostate cancer,176807
+SChLAP1,prostate cancer,176807
+TRPM2-AS,prostate cancer,176807
+uc001lsz,prostate cancer,176807
+UCA1,prostate cancer,176807
+XLOC_005327,prostate cancer,176807
+XLOC_007697,prostate cancer,176807
+XLOC_008559,prostate cancer,176807
+XLOC_009911,prostate cancer,176807
+PCA3,prostate cancer,176807
+prostate cancer gene expression marker 1 (PCGEM1),prostate cancer,176807
+SChLAP1,prostate cancer,176807
+GNAS-AS1,pseudohypoparathyroidism type Ib,603233
+HLA-AS1,psoriasis,177900
+PRINS,psoriasis,177900
+PSORS1C3,psoriasis,177900
+Abhd11os,psychiatric disease,603218
+BDNF-AS,psychiatric disease,603218
+LOC389023,psychiatric disease,603218
+BC029135,renal cell cancer,144700
+CADM1-AS1,renal cell cancer,144700
+ENST00000456816,renal cell cancer,144700
+lnc-ACACA-1,renal cell cancer,144700
+lnc-BMP2-2,renal cell cancer,144700
+lnc-CPN2-1,renal cell cancer,144700
+lnc-CYP4A22-2/3,renal cell cancer,144700
+lnc-FOXG1-2,renal cell cancer,144700
+lnc-FZD1-2,renal cell cancer,144700
+lnc-ITPR2-3,renal cell cancer,144700
+lnc-LCP2-2,renal cell cancer,144700
+lnc-RP3-368B9,renal cell cancer,144700
+lnc-SLC30A4-1,renal cell cancer,144700
+lnc-SPAM1-6,renal cell cancer,144700
+lnc-TTC34-3,renal cell cancer,144700
+lnc-ZNF180-2,renal cell cancer,144700
+MALAT1,renal cell cancer,144700
+MEG3,renal cell cancer,144700
+NBAT-1,renal cell cancer,144700
+NR_024418,renal cell cancer,144700
+SPRY4-IT1,renal cell cancer,144700
+X91348,renal cell cancer,144700
+GAS5,renal cell cancer,144700
+H19,renal cell cancer,144700
+HIF1A-AS1,renal cell cancer,144700
+HIF1A-AS2,renal cell cancer,144700
+KCNQ1OT1,renal cell cancer,144700
+MALAT1,renal cell cancer,144700
+MEG3,renal cell cancer,144700
+HIF1A-AS1,renal cell cancer,144700
+HIF1A-AS2,renal cell cancer,144700
+HOTAIR,renal cell cancer,144700
+MALAT1,renal cell cancer,144700
+HIF1A-AS1,renal cell cancer,144700
+PVT1,renal cell cancer,144700
+HOX transcript antisense RNA (HOTAIR),renal cell cancer,144700
+AK096725,renal cell cancer,144700
+BC047917,renal cell cancer,144700
+BC070168,renal cell cancer,144700
+ENST00000414223,renal cell cancer,144700
+ENST00000453068,renal cell cancer,144700
+ENST00000507950,renal cell cancer,144700
+GAS5,renal cell cancer,144700
+HOTAIR,renal cell cancer,144700
+MALAT1,renal cell cancer,144700
+ncC11orf49,renal cell cancer,144700
+ncHDAC5,renal cell cancer,144700
+ncRAB31,renal cell cancer,144700
+ncSRPK1,renal cell cancer,144700
+NR_024256,renal cell cancer,144700
+NR_026860,renal cell cancer,144700
+RCCRT1,renal cell cancer,144700
+uc001aka.2,renal cell cancer,144700
+uc001vjj.1,renal cell cancer,144700
+uc003erl.1,renal cell cancer,144700
+uc009wkz.1,renal cell cancer,144700
+MALAT1,renal cell cancer,144700
+XIST,renal cell cancer,144700
+BANCR,retinoblastoma,180200
+NCRMS,rhabdomyosarcoma,268210
+RMST,rhabdomyosarcoma,268210
+HOTAIR,rheumatoid arthritis,180300
+HOTAIR,sarcoma,300813
+BDNF-AS,schizophrenia,181500
+DAOA-AS1,schizophrenia,181500
+DISC2,schizophrenia,181500
+DLG2AS,schizophrenia,181500
+HAR1A,schizophrenia,181500
+HAR1B,schizophrenia,181500
+LINC00271,schizophrenia,181500
+MIAT,schizophrenia,181500
+TRAF3IP2-AS1,schizophrenia,181500
+H19,Silver-Russell syndrome,180860
+MESTIT1,Silver-Russell syndrome,180860
+HOTAIR,small cell lung cancer,182280
+MALAT1,small cell lung cancer,182280
+HOTAIR,small-cell lung cancer,182280
+SCAANT1,Spinocerebellar ataxia type 7,164500
+lnc-SCA7,spinocerebellar ataxia type 7 ,164500
+ATXN8OS,Spinocerebellar ataxia type 8,608768
+DLX6-AS1,Split Hand/Split Foot malformation disorder,183600
+HOTAIR,squamous cell cancer,275355
+lnc-KCTD6-3,squamous cell cancer,275355
+lnc-LCE5A-1,squamous cell cancer,275355
+AB019562,squamous cell cancer,275355
+AB209630,squamous cell cancer,275355
+AC026166.2-001,squamous cell cancer,275355
+ANRIL,squamous cell cancer,275355
+HOTAIR,squamous cell cancer,275355
+MALAT1,squamous cell cancer,275355
+RP11-169D4.1-001,squamous cell cancer,275355
+RRP1B,squamous cell cancer,275355
+SRA1,squamous cell cancer,275355
+HOTAIR,squamous cell cancer,275355
+MALAT1,squamous cell cancer,275355
+miR-21,squamous cell cancer,275355
+FOXCUT,squamous cell cancer,275355
+HOTAIR,squamous cell cancer,275355
+MALAT1,squamous cell cancer,275355
+MEG3,squamous cell cancer,275355
+NEAT1,squamous cell cancer,275355
+UCA1,squamous cell cancer,275355
+HOTAIR,squamous cell cancer,275355
+NEAT-1,squamous cell cancer,275355
+UCA1,squamous cell cancer,275355
+TINCR,squamous cell cancer,275355
+CDKN2B-AS1,Stroke,601367
+CDKN2B-AS1,Stroke,601367
+CDKN2B-AS10,Stroke,601367
+CDKN2B-AS11,Stroke,601367
+HESRG,testicular cancer,273300
+ESRG,testicular cancer,273300
+BOKAS,testicular cancer,273300
+BOK-AS1,testicular cancer,273300
+TDRG1,testicular cancer,273300
+XIST,testicular cancer,273300
+NLC1-C,testicular cancer,273300
+XIST,testicular cancer,273300
+CCND1 promoter-derived lncRNAs,TLS-associated pathological states,605221
+BC200,tongue cancer,616316
+lnc-KCTD6-3,tongue cancer,616316
+lnc-LCE5A-1,tongue cancer,616316
+BCYRN1,tongue cancer,616316
+HYMAI,transient neonatal diabetes mellitus,601410
+H19,trophoblastic tumor,190920
+H19,trophoblastic tumor,190920
+CDKN2B-AS1,type 2 diabetes,125853
+CDKN2B-AS5,type 2 diabetes,125853
+HI-LNC25,type 2 diabetes,125853
+LINC00271,type 2 diabetes,125853
+PDZRN3-AS1,type 2 diabetes,125853
+PVT1,type 2 diabetes,125853
+DGCR5,velocardiofacial syndrome,192430
+ENST00000513542,Ventricular septal defects,614429
+FGF10-AS1,Ventricular septal defects,614429
+BX118339,West Syndrome,308350
+H19,Wiedemann-Beckwith syndrome,130650
+H19,Wilms tumor,194070
+IGF2-AS,Wilms tumor,194070
+KCNQ1DN,Wilms tumor,194070
+MEG3,Wilms tumor,194070
+WT1-AS,Wilms tumor,194070
+H19,Wilms tumor,194070
+IGF2-AS,Wilms tumor,194070
+KCNQ1DN,Wilms tumor,194070
+WT1-AS,Wilms tumor,194070
