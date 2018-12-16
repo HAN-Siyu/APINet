@@ -1,0 +1,30 @@
+LPBNI:
+Ge M, Li A, Wang M. A Bipartite Network-based Method for Prediction of Long Non-coding RNA-protein Interactions. Genomics, Proteomics Bioinforma. 2016; 14:62每71.
+The data and source code are freely available at https://github.com/USTC-HILAB.
+
+
+
+Zheng et al:
+Zheng X, Wang Y, Tian K, et al. Fusing multiple protein-protein similarity networks to effectively predict lncRNA-protein interactions. BMC Bioinformatics 2017; 18:
+
+
+
+Yang et al:
+Yang J, Li A, Ge M, et al. Prediction of interactions between lncRNA and protein by using relevance search in a heterogeneous lncRNA-protein network. Chinese Control Conf. CCC 2015; 2015每Septe:8540每8544
+
+
+
+Li A, Ge M, Zhang Y, et al. Predicting Long Noncoding RNA and Protein Interactions Using Heterogeneous Network Model. Biomed Res. Int. 2015; 2015:1每11
+
+
+Xiao Y, Zhang J, Deng L. Prediction of lncRNA-protein interactions using HeteSim scores based on heterogeneous networks. Sci. Rep. 2017; 7:1每12
+
+RWR:
+Bauer S, Horn D, Robinson PN. Walking the Interactome for Prioritization of Candidate Disease Genes. 2008; 949每958
+Supplemental Data include two tables and can be found online at http://www.ajhg.org/.
+The URLs for data presented herein are as follows:
+GeneWanderer, http://compbio.charite.de/genewanderer
+Online Mendelian Inheritance in Man, http://www.ncbi.nlm.nih.gov/Omim/
+
+PRINCE:
+Vanunu O, Magger O, Ruppin E, et al. Associating genes and protein complexes with disease via network propagation. PLoS Comput. Biol. 2010; 6:
