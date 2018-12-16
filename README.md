@@ -1,7 +1,8 @@
 # APINet
 Long Noncoding RNAs and Proteins Interactions: From Experimental Results to Computational Models-Based on Network Method
 
-# Objective: 
+
+# Objective
 The materials, interaction score calculation algorithms, advantages and disadvantages of several popu-lar networks-based methods are summarized and discussed to assist researchers in selecting suitable method and acquiring a more dependable result.
 
 
@@ -27,3 +28,7 @@ We will provide data information on all possible interactions between biomolecul
 18. Drug-Drug : /APINet/drugbank_all_full_database
 19. Drug-Side-effects : /APINet/Drug-Side-Effect.tsv
 20. Disease-Disease : /APINet/Disease-Disease/Disease-Disease.csv
+
+
+# Supplementary File
+Original figures and frameworks
